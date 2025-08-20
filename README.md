@@ -1,4 +1,4 @@
-# LidaRF
+# Ouroboros
 
 This is the repository that contains source code for the [Ouroboros website](https://siwensun.github.io/ouroboros-project/).
 
